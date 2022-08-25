@@ -1,0 +1,31 @@
+* {
+    background-color: #f7d4fc;
+}
+
+h1 {
+    text-align: center;
+}
+
+img {
+    height: auto;
+    width: 200px;
+    display: block;
+    margin: 0 auto;
+}
+
+a {
+    text-align: center;
+    display: block;
+}
+
+#sangriatitle {
+    color:goldenrod
+}
+
+#cocktailtitle {
+    color:aquamarine
+}
+
+#russiantitle {
+    color:blanchedalmond
+}
